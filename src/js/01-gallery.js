@@ -23,10 +23,3 @@ function createGalleryItemsMarkup(items) {
     })
     .join('');
 }
-
-// use library SimpleLightbox
-const lightbox = new SimpleLightbox('.gallery a', {
-  captionsData: 'alt',
-  captionPosition: 'bottom',
-  captionDelay: 250,
-});
