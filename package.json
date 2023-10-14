@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Luz0801.github.io/goit-js-hw-10",
+  "homepage": "https://SilviaGalvis.github.io/goit-js-hw-10",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-10/"
@@ -18,16 +18,8 @@
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
   },
   "dependencies": {
-    "@vimeo/player": "^2.20.1",
-    "babel": "^6.23.0",
-    "debounce": "^1.2.1",
-    "flatpickr": "^4.6.13",
-    "lodash": "^4.17.21",
-    "lodash.debounce": "^4.0.8",
-    "lodash.throttle": "^4.1.1",
     "modern-normalize": "^1.1.0",
     "notiflix": "^3.2.6",
-    "simplelightbox": "^2.14.2",
     "slim-select": "^2.6.0"
   },
   "devDependencies": {
